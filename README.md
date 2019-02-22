@@ -40,4 +40,4 @@
 
 버전 리스트
 
-2019/2/22 : 초기빌드 0.01
+2019/2/22 : 초기빌드 0.01 https://drive.google.com/open?id=1kgde-jo1RBXWv1vQGg-wRwL_-Yjkeymg
